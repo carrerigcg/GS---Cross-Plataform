@@ -9,7 +9,8 @@ OrbitSense é uma plataforma mobile de análise preditiva espacial que monitora 
 
 | Nome | RM |
 |------|----|
-| [Nome Completo] | RM000000 |
+| [Guilherme Carreri Giampietro] | RM565676 |
+| [Arthur Souza Matos Dias] | RM566068 |
 
 ## Telas do Aplicativo
 

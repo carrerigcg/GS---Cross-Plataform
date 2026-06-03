@@ -12,6 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#0A0E1A"
     },
+    "platforms": ["ios", "android", "web"],
     "plugins": [
       "expo-router"
     ],
