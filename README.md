@@ -79,17 +79,6 @@ npx expo start
 
 Escaneie o QR Code com o Expo Go para rodar no dispositivo físico.
 
-## Testes
-
-```bash
-npm test
-```
-
-Suite de 11 testes cobrindo:
-- `useAsyncStorage` — save/load round-trip e null-on-missing-key (2 testes)
-- `MissionContext.checkThresholds` — lógica de geração e deduplicação de alertas (5 testes)
-- `settings.validateThresholds` — validação do formulário de limiares (4 testes)
-
 ## Vídeo de Demonstração
 
 [Clique aqui para assistir à demonstração](https://youtube.com/...)
