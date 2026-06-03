@@ -17,26 +17,42 @@ OrbitSense é uma plataforma mobile de análise preditiva espacial que monitora 
 ### Home — Dashboard Principal
 Visão geral dos indicadores da missão com status colorido por sistema e badge de alertas críticos.
 
+![Home](assets/screenshots/Home.png)
+
 ### Dashboards — Lista
 Grid de acesso aos 4 dashboards analíticos.
+
+![Dashboards](assets/screenshots/Dashboards.png)
 
 ### Dashboard de Sensores
 Temperatura, pressão e radiação com gráfico de linha histórico.
 
+![Gráfico Sensores](assets/screenshots/Grafico%20Sensores.png)
+
 ### Dashboard de Energia
 Nível de bateria, produção solar e consumo com barras de progresso.
+
+![Gráfico Energia](assets/screenshots/Grafico%20Energia.png)
 
 ### Dashboard de Comunicação
 Status do link de telemetria, sinal e latência com badge ONLINE/DEGRADED/LOST.
 
+![Gráfico Comunicação](assets/screenshots/Grafico%20comunicacao.png)
+
 ### Dashboard Orbital
 Altitude, velocidade e inclinação orbital com gráfico de altitude histórico.
+
+![Gráfico Estabilidade Orbital](assets/screenshots/Grafico%20Estabilidade%20Orbital.png)
 
 ### Alertas
 Lista de alertas gerados automaticamente com nível de criticidade e timestamp.
 
+![Alertas](assets/screenshots/Alertas.png)
+
 ### Configurações
 Formulário de configuração dos limiares de alerta com validação e persistência.
+
+![Configurações](assets/screenshots/Configuracoes.png)
 
 ## Funcionalidades
 
@@ -68,8 +84,8 @@ Formulário de configuração dos limiares de alerta com validação e persistê
 ### Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/orbitsense.git
-cd orbitsense
+git clone https://github.com/carrerigcg/GS---Cross-Plataform.git
+cd GS---Cross-Plataform
 npm install
 npx expo start
 ```
