@@ -14,45 +14,32 @@ OrbitSense é uma plataforma mobile de análise preditiva espacial que monitora 
 
 ## Telas do Aplicativo
 
-### Home — Dashboard Principal
-Visão geral dos indicadores da missão com status colorido por sistema e badge de alertas críticos.
-
-![Home](assets/screenshots/Home.png)
-
-### Dashboards — Lista
-Grid de acesso aos 4 dashboards analíticos.
-
-![Dashboards](assets/screenshots/Dashboards.png)
-
-### Dashboard de Sensores
-Temperatura, pressão e radiação com gráfico de linha histórico.
-
-![Gráfico Sensores](assets/screenshots/Grafico%20Sensores.png)
-
-### Dashboard de Energia
-Nível de bateria, produção solar e consumo com barras de progresso.
-
-![Gráfico Energia](assets/screenshots/Grafico%20Energia.png)
-
-### Dashboard de Comunicação
-Status do link de telemetria, sinal e latência com badge ONLINE/DEGRADED/LOST.
-
-![Gráfico Comunicação](assets/screenshots/Grafico%20comunicacao.png)
-
-### Dashboard Orbital
-Altitude, velocidade e inclinação orbital com gráfico de altitude histórico.
-
-![Gráfico Estabilidade Orbital](assets/screenshots/Grafico%20Estabilidade%20Orbital.png)
-
-### Alertas
-Lista de alertas gerados automaticamente com nível de criticidade e timestamp.
-
-![Alertas](assets/screenshots/Alertas.png)
-
-### Configurações
-Formulário de configuração dos limiares de alerta com validação e persistência.
-
-![Configurações](assets/screenshots/Configuracoes.png)
+<table>
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Dashboards</b></td>
+    <td align="center"><b>Sensores</b></td>
+    <td align="center"><b>Energia</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/Home.png" width="200"/></td>
+    <td><img src="assets/screenshots/Dashboards.png" width="200"/></td>
+    <td><img src="assets/screenshots/Grafico Sensores.png" width="200"/></td>
+    <td><img src="assets/screenshots/Grafico Energia.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Comunicação</b></td>
+    <td align="center"><b>Orbital</b></td>
+    <td align="center"><b>Alertas</b></td>
+    <td align="center"><b>Configurações</b></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/Grafico comunicacao.png" width="200"/></td>
+    <td><img src="assets/screenshots/Grafico Estabilidade Orbital.png" width="200"/></td>
+    <td><img src="assets/screenshots/Alertas.png" width="200"/></td>
+    <td><img src="assets/screenshots/Configuracoes.png" width="200"/></td>
+  </tr>
+</table>
 
 ## Funcionalidades
 
